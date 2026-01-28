@@ -52,4 +52,4 @@ It includes table creation, data insertion, and sample queries for practice and 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/movie-rental-company.git
+https://github.com/tyhan-data/movie-rental-company.git
